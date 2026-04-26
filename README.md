@@ -4,6 +4,8 @@ The first NER model trained directly on ancient Egyptian transliteration text. I
 
 **Live Demo:** https://juhi-egyptian-transliteration-ner.streamlit.app/
 
+**Paper:** https://doi.org/10.5281/zenodo.19800720
+
 ## Overview
 
 Most computational work on ancient Egyptian texts relies on English translations. This project works directly on the source language as Egyptologists write it: Leiden Unified Transliteration (e.g., `wsꞽr`, `ḥr.w`, `ꞽnp.w`).
