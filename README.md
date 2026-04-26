@@ -21,6 +21,10 @@ Trained on 7,059 sentences from the Thesaurus Linguae Aegyptiae corpus, the mode
 | Validation sentences | 1,412 |
 | Entity classes | DEITY, PERSON |
 
+## Demo
+
+![Egyptian NER demo](ner_demo.png)
+
 ## Example
 
 Input:
